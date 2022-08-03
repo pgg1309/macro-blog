@@ -1,0 +1,13 @@
+---
+title: "ISM Prices and Inflation"
+description: "What does ISM prices imply for CPI inflation?"
+author: "Dr. Paulo Gustavo Grahl, CFA"
+date: "8/3/2022"
+categories: [us, inflation, ism]
+draft: true
+editor: visual
+---
+
+# ISM prices and inflation
+
+The chart below
